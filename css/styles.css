@@ -1,0 +1,10 @@
+body{
+  font-family: "Eagle Lake";
+}
+
+.js-bookmarked{
+  background-image: url("/img/icon-bookmark.svg");
+  background-repeat: no-repeat;
+  background-position: left 7px center;
+
+}
